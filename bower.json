@@ -1,0 +1,23 @@
+{
+  "name": "mini",
+  "version": "0.0.1",
+  "authors": [
+    "marioskrlec <mario@locastic.com>"
+  ],
+  "description": "Mini .js framework for for minimal use",
+  "main": "system.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "mini"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
