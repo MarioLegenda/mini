@@ -17,8 +17,9 @@ other module is not, for example, systemEvent.js.
 
 ######Structure
 
-You add structure to your code with *SYSTEM.ControlFlow.scope()* function. It should accept an object literal with these
-properties.
+You add structure to your code with *SYSTEM.ControlFlow.scope()* function. It should accept an object literal with
+mandatory *systemName* property which has to be a string and an *execute()* function that has to be enclosed in
+an array
 
 For example...
 
@@ -30,7 +31,7 @@ For example...
     });
     
 You noticed that *execute()* function is enclosed in an array. This is necessary beacuse of dependency injection.
-Dependency injection is handled similary like in Angular.js but with some variation. Later on dependency injection.
+Dependency injection is handled similary like in Angular.js but with some variation.
 
 ######Services
 
