@@ -1,5 +1,11 @@
 ## Mini - Super cool mini framework
 
+- Installation
+- Getting Started
+- Scope
+- Services
+- Dependency injection
+
 ###Installation
 
 #####Bower 
