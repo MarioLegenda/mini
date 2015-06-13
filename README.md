@@ -1,10 +1,10 @@
 ## Mini - Super cool mini framework
 
-- Installation
-- Getting Started
-- Scope
-- Services
-- Dependency injection
+1. Installation
+2. Getting Started
+3. Scope
+4. Services
+5. Dependency injection
 
 ###Installation
 
