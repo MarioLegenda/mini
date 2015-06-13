@@ -1,11 +1,5 @@
 ## Mini - Super cool mini framework
 
-1. Installation
-2. Getting Started
-3. Scope
-4. Services
-5. Dependency injection
-
 ###Installation
 
 #####Bower 
@@ -15,6 +9,19 @@
 #####GitHub
 
     git clone https://github.com/MarioLegenda/mini.git
+    
+#####Getting started
+    
+System.js consists of modules that you inject (via <script> tags) into your website. *system.js* module is mandatory, every
+other module is not, for example, systemEvent.js. 
+
+######Structure
+
+######Services
+
+######Dependency injection
+
+
     
     
     
