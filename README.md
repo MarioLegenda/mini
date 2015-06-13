@@ -12,7 +12,7 @@
     
 #####Getting started
     
-System.js consists of modules that you inject (via <script> tags) into your website. *system.js* module is mandatory, every
+System.js consists of modules that you inject (via script tags) into your website. *system.js* module is mandatory, every
 other module is not, for example, systemEvent.js. 
 
 ######Structure
